@@ -2,7 +2,7 @@
 # Hi, I'm DongHwan Won 👋
 
 🎯 BI / Data Analyst specializing in Healthcare Analytics  
-📍 Based in Montreal, Canada  
+📍 Based in Ottawa, Canada  
 
 I transform complex healthcare and operational data into actionable insights using SQL, Python, and BI tools.
 
@@ -26,7 +26,7 @@ I transform complex healthcare and operational data into actionable insights usi
 
 ---
 
-### 🏥 Hospital Data Mart (Snowflake SQL)
+### 🏥 Hospital Data Mart (
 - Designed a healthcare data warehouse using Snowflake
 - Built fact/dimension schema for patient, appointment, and operations data
 - Enabled KPI tracking (revisit rate, cancellation rate, doctor performance)
