@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**DHWON-cpu/DHWON-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm DongHwan Won 👋
 
-Here are some ideas to get you started:
+🎯 BI / Data Analyst (Healthcare Focus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projects
+- Healthcare Readmission Prediction (ML + BI)
+- Traffic Fatality Analysis (XGBoost + SHAP)
+- Hospital Data Mart (Snowflake SQL)
+
+## 🛠 Skills
+Python | SQL | Power BI | Snowflake | Machine Learning
+
+## 📫 Contact
+- LinkedIn: (추후 추가)
+- Portfolio: (추후 추가)
