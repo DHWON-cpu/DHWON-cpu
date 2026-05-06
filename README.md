@@ -1,8 +1,10 @@
 
-# Hi, I'm DongHwan Won 👋
+# I'm DongHwan Won 👋
 
-🎯 BI / Data Analyst specializing in Healthcare Analytics  
-📍 Based in Ottawa, Canada  
+Healthcare-focused data analyst with 10+ years of experience in biotech R&D, medical devices, and drug discovery.
+Currently specializing in SQL, Power BI, Python, and machine learning to transform complex scientific and operational data into actionable business insights.
+Proven ability to bridge scientific research and data analytics, supporting data-driven decision-making in healthcare and operational environments.
+
 
 I transform complex healthcare and operational data into actionable insights using SQL, Python, and BI tools.
 
@@ -36,11 +38,20 @@ I transform complex healthcare and operational data into actionable insights usi
 
 ## 🛠 Skills
 
-**Data & BI:** SQL (MySQL, PostgreSQL, MS SQL), Power BI, Tableau  
-**Programming:** Python (Pandas, NumPy, Scikit-learn)  
-**Machine Learning:** Classification, Clustering, Imbalanced Data Handling  
-**Data Engineering:** Snowflake, Data Modeling, ETL  
-**Tools:** VS Code, Jupyter Notebook, Git  
+**TECHNICAL SKILLS**
+Data & Analytics
+•	SQL (PostgreSQL, RDBMS)
+•	Power BI, Tableau, Excel
+•	Python (Pandas, ML, data analysis)
+Data Engineering & Systems
+•	Database design (ERD, normalization)
+•	Data cleaning & transformation
+•	AWS (basic cloud concepts)
+Domain Expertise
+•	Healthcare data
+•	Biotech / pharmaceutical R&D
+•	Supply chain & forecasting
+
 
 ---
 
