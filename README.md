@@ -57,8 +57,9 @@ Domain Expertise
 
 ## 📫 Contact
 
-- LinkedIn: (추후 추가)
-- Portfolio Website: (추후 추가)
+- LinkedIn: linkedin.com/in/dylan-h-won-394989406
+- Portfolio Website:  ⚠️ under construction
+  
 
 ---
 
