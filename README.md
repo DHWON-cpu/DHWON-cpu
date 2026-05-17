@@ -1,5 +1,5 @@
 
-# I'm DongHwan Won 👋
+# I'm DongHwan Won / Dylan H. Won 👋
 
 Healthcare-focused data analyst with 10+ years of experience in biotech R&D, medical devices, and drug discovery.
 Currently specializing in SQL, Power BI, Python, and machine learning to transform complex scientific and operational data into actionable business insights.
