@@ -35,6 +35,10 @@ SQL | Python | Snowflake | Power BI | Machine Learning
 
 * Enabled data-driven traffic safety and infrastructure strategy development by translating model outputs into actionable business insights related to speeding, truck involvement, pedestrian interactions, and turning-movement collisions to support targeted urban safety and policy intervention planning.
 
+![Collison_summary](/images/collision-2.jpg)
+
+![Collison_summary](/images/collision-1.gif)
+
 ---
 
 ### 🏥 Hospital Data Mart (
