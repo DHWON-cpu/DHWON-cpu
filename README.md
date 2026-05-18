@@ -27,11 +27,13 @@ SQL | Python | Snowflake | Power BI | Machine Learning
 #### Dashboard for managers and coordinators | PowerBI 
 ![Hospital2_summary](/images/Hospital2_PPT2.jpg)
 
-### 🚗 Traffic Fatality Analysis (XGBoost + SHAP)
-- Developed a classification model on 18,000+ collision records
-- Improved fatal case detection through recall-focused threshold tuning
-- Used SHAP for explainability and spatial–temporal insights
-- 📊 Key Insight: Higher fatality risk observed during turning collisions
+### 2️⃣ Fatal Collision Risk Modeling & Data-Driven Safety Intelligence (XGBoost, SHAP)
+
+* Improved fatal collision detection capability by developing an XGBoost-based machine learning framework with L1-driven feature selection and recall-focused threshold optimization, achieving strong predictive performance under severe class imbalance conditions (ROC-AUC ≈ 0.82, Recall ≈ 0.71).
+
+* Generated explainable operational safety intelligence by applying SHAP-based spatial–temporal analysis to identify that environmental and contextual factors contributed more strongly (58.6%) to fatal collision outcomes than human-related factors, revealing high-risk geographic clusters and time-dependent collision patterns.
+
+* Enabled data-driven traffic safety and infrastructure strategy development by translating model outputs into actionable business insights related to speeding, truck involvement, pedestrian interactions, and turning-movement collisions to support targeted urban safety and policy intervention planning.
 
 ---
 
