@@ -1,12 +1,11 @@
 
-# I'm DongHwan Won / Dylan H. Won 👋
+# Hi, I’m DongHwan Won (Dylan H. Won) 
 
-Healthcare-focused data analyst with 10+ years of experience in biotech R&D, medical devices, and drug discovery.
-Currently specializing in SQL, Power BI, Python, and machine learning to transform complex scientific and operational data into actionable business insights.
-Proven ability to bridge scientific research and data analytics, supporting data-driven decision-making in healthcare and operational environments.
+##  Business Intelligence • Operational Analytics • Healthcare 
 
+Transforming complex healthcare and operational challenges into actionable business intelligence using:
 
-I transform complex healthcare and operational data into actionable insights using SQL, Python, and BI tools.
+SQL | Python | Snowflake | Power BI | Machine Learning
 
 ---
 
