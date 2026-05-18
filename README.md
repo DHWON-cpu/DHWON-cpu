@@ -34,9 +34,9 @@ SQL | Python | Snowflake | Power BI | Machine Learning
 * Generated explainable operational safety intelligence by applying SHAP-based spatial–temporal analysis to identify that environmental and contextual factors contributed more strongly (58.6%) to fatal collision outcomes than human-related factors, revealing high-risk geographic clusters and time-dependent collision patterns.
 
 * Enabled data-driven traffic safety and infrastructure strategy development by translating model outputs into actionable business insights related to speeding, truck involvement, pedestrian interactions, and turning-movement collisions to support targeted urban safety and policy intervention planning.
-
+#### Summary
 ![Collison_summary](/images/collision-2.jpg)
-
+#### Insight
 ![Collison_summary](/images/collision-1.gif)
 
 ---
