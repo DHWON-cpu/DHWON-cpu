@@ -3,7 +3,7 @@
 
 ##  Business Intelligence • Operational Analytics • Healthcare 
 
-Transforming complex healthcare and operational challenges into actionable business intelligence using:
+Transforming complex operational and enterprise challenges into actionable business intelligence through workflow optimization, strategic analytics, and data-driven decision support.
 
 SQL | Python | Snowflake | Power BI | Machine Learning
 
